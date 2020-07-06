@@ -1,0 +1,13 @@
+flame Building1Flame=1,Building2Flame=1,Building3Flame=0,Building4Flame=0,Building5Flame=0 1594030537
+flame Building1Flame=1,Building2Flame=0,Building3Flame=1,Building4Flame=1,Building5Flame=1 1594030538
+flame Building1Flame=1,Building2Flame=0,Building3Flame=0,Building4Flame=1,Building5Flame=1 1594030539
+flame Building1Flame=1,Building2Flame=1,Building3Flame=0,Building4Flame=1,Building5Flame=0 1594030540
+flame Building1Flame=1,Building2Flame=0,Building3Flame=1,Building4Flame=0,Building5Flame=0 1594030541
+flame Building1Flame=1,Building2Flame=1,Building3Flame=1,Building4Flame=0,Building5Flame=0 1594030542
+flame Building1Flame=0,Building2Flame=0,Building3Flame=1,Building4Flame=1,Building5Flame=0 1594030543
+flame Building1Flame=0,Building2Flame=0,Building3Flame=0,Building4Flame=1,Building5Flame=1 1594030544
+flame Building1Flame=0,Building2Flame=1,Building3Flame=0,Building4Flame=1,Building5Flame=1 1594030545
+flame Building1Flame=0,Building2Flame=0,Building3Flame=1,Building4Flame=0,Building5Flame=1 1594030546
+flame Building1Flame=1,Building2Flame=0,Building3Flame=0,Building4Flame=0,Building5Flame=1 1594030547
+flame Building1Flame=0,Building2Flame=1,Building3Flame=1,Building4Flame=0,Building5Flame=1 1594030548
+flame Building1Flame=0,Building2Flame=1,Building3Flame=0,Building4Flame=1,Building5Flame=0 1594030549
